@@ -4,8 +4,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.1",
+        "symfony/console": "^3.3@dev",
         "symfony/flex": "^1.0",
         "symfony/framework-bundle": "^3.3",
+        "symfony/web-server-bundle": "^3.3@dev",
         "symfony/yaml": "^3.3"
     },
     "require-dev": {
