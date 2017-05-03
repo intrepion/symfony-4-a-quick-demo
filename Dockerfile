@@ -17,6 +17,7 @@ RUN apt-get update \
     git \
     make \
     php7.1 \
+    php7.1-dom \
     php7.1-zip \
     wget
 
